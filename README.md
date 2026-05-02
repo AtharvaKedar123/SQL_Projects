@@ -23,7 +23,7 @@ This repository contains a collection of **real-world SQL database projects** de
 
 Each project is built around a practical business scenario and includes structured tables, sample data, and useful SQL queries to solve real problems.
 
-
+---
 
 # 🚀 Featured SQL Projects
 
@@ -79,9 +79,9 @@ COUNT()
 HAVING
 SUBQUERIES
 AGGREGATE FUNCTIONS
+```
+
 ---
-
-
 
 ## 2. ⚡ Electric Vehicle Charging Station Management System
 
@@ -135,7 +135,7 @@ GROUP BY
 BUSINESS REPORTING
 ```
 
-
+---
 
 ## 3. 🛡️ Cybersecurity Incident Tracking System
 
@@ -188,7 +188,7 @@ STATUS-BASED REPORTING
 INCIDENT ANALYSIS
 ```
 
-
+---
 
 ## 4. 🏥 Hospital Emergency Room Management System
 
@@ -241,7 +241,7 @@ PATIENT REPORTING
 HEALTHCARE ANALYTICS
 ```
 
-
+---
 
 ## 5. 🤖 Warehouse Robot Inventory Management System
 
@@ -294,7 +294,7 @@ GROUP BY
 WAREHOUSE ANALYTICS
 ```
 
-
+---
 
 # 🛠️ Technologies Used
 
@@ -372,7 +372,7 @@ This repository is useful for:
 - Resume strengthening
 - Database design practice
 
-
+---
 
 # 📌 Highlighted Skills
 
@@ -386,7 +386,7 @@ Analytical Reporting
 Real-world Problem Solving
 ```
 
-
+---
 
 # 👨‍💻 Author
 
@@ -395,7 +395,7 @@ Real-world Problem Solving
 ![GitHub](https://img.shields.io/badge/GitHub-AtharvaKedar123-black?style=for-the-badge&logo=github)
 ![SQL Portfolio](https://img.shields.io/badge/SQL-Portfolio%20Projects-blue?style=for-the-badge)
 
-
+---
 
 # ⭐ Final Note
 
