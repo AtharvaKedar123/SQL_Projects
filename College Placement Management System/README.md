@@ -1,48 +1,48 @@
-# 📦 Courier Hub Parcel Sorting & Route Assignment System
+# 🎓 College Placement Management System
 
 ## 📌 Overview
-A system to manage parcel sorting at courier hubs and optimize delivery route assignments for efficient logistics operations.
+A system to manage student placements, track company recruitment drives, and monitor hiring outcomes within a college.
 
 ## 🎯 Objectives
-- Track parcel movement
-- Automate sorting process
-- Assign delivery routes
-- Optimize logistics efficiency
+- Track student placement status
+- Manage company recruitment drives
+- Monitor job offers and selections
+- Analyze placement performance
 
 ## 🧱 System Components
-- Parcels
-- Hubs
-- Delivery Agents
-- Routes
+- Students
+- Companies
+- Job Offers
+- Placement Drives
 
 ## 🗂️ Database Design
-- parcels
-- hubs
-- delivery_agents
-- routes
-- sorting_logs
+- students
+- companies
+- job_offers
+- placement_drives
+- applications
 
 ## ⚙️ Key Features
-- Parcel tracking
-- Hub-wise sorting
-- Route assignment
-- Delivery status updates
+- Student placement tracking
+- Company-wise hiring records
+- Offer management
+- Application tracking
 
 ## 📊 Sample Queries
-- Parcels by hub
-- Delayed deliveries
-- Agent workload
-- Route efficiency
+- Students placed vs unplaced
+- Top recruiting companies
+- Highest salary offers
+- Placement statistics by branch
 
 ## 💡 Use Cases
-- Logistics companies
-- Courier services
-- E-commerce delivery
+- Colleges and universities
+- Placement cells
+- Recruitment tracking
 
 ## 🛠️ Tech Stack
 - SQL
 
 ## 🚀 Future Enhancements
-- GPS route optimization
-- Real-time tracking
-- AI-based delivery prediction
+- Resume upload system
+- Company portal integration
+- Placement analytics dashboard
