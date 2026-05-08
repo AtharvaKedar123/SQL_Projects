@@ -1,5 +1,4 @@
--- Electric Vehicle Charging Station Management System
--- Single File SQL Solution
+
 
 CREATE DATABASE EVChargingDB;
 USE EVChargingDB;
