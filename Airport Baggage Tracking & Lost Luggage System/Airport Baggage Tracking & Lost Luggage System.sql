@@ -1,6 +1,3 @@
--- Airport Baggage Tracking & Lost Luggage System
--- Single File SQL Solution
-
 CREATE DATABASE AirportBaggageDB;
 USE AirportBaggageDB;
 
