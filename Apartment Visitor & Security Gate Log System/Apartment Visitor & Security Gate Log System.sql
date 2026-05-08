@@ -1,5 +1,3 @@
--- Apartment Visitor & Security Gate Log System
--- Single File SQL Solution
 
 CREATE DATABASE ApartmentGateLogDB;
 USE ApartmentGateLogDB;
