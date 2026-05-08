@@ -1,5 +1,4 @@
--- Blood Bank Inventory & Donation Tracking System
--- Single File SQL Solution
+
 
 CREATE DATABASE BloodBankDB;
 USE BloodBankDB;
