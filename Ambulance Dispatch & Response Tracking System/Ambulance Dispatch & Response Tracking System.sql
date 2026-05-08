@@ -1,5 +1,4 @@
--- Smart Ambulance Dispatch & Response Tracking System
--- Single File SQL Solution
+
 
 CREATE DATABASE AmbulanceDispatchDB;
 USE AmbulanceDispatchDB;
