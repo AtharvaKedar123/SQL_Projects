@@ -1,5 +1,4 @@
--- Restaurant Table Reservation & Queue Management System
--- Single File SQL Solution
+
 
 CREATE DATABASE RestaurantReservationDB;
 USE RestaurantReservationDB;
