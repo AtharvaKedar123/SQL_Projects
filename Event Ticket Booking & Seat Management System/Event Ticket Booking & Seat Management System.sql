@@ -1,5 +1,4 @@
--- Event Ticket Booking & Seat Management System
--- Single File SQL Solution
+
 
 CREATE DATABASE EventTicketDB;
 USE EventTicketDB;
