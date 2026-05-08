@@ -1,5 +1,4 @@
--- Library Fine & Book Reservation System
--- Single File SQL Solution
+
 
 CREATE DATABASE LibraryReservationDB;
 USE LibraryReservationDB;
