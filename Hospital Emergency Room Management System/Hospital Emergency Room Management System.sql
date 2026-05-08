@@ -1,5 +1,4 @@
--- Hospital Emergency Room Management System
--- Single File SQL Solution
+
 
 CREATE DATABASE EmergencyRoomDB;
 USE EmergencyRoomDB;
