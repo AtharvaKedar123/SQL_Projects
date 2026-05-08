@@ -1,5 +1,4 @@
--- College Placement Management System
--- Single File SQL Solution
+
 
 CREATE DATABASE PlacementDB;
 USE PlacementDB;
