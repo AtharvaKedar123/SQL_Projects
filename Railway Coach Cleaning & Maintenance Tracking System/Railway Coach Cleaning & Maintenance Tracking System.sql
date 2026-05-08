@@ -1,5 +1,4 @@
--- Railway Coach Cleaning & Maintenance Tracking System
--- Single File SQL Solution
+
 
 CREATE DATABASE RailwayCoachMaintenanceDB;
 USE RailwayCoachMaintenanceDB;
