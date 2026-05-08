@@ -1,5 +1,4 @@
--- Mental Wellness Session Booking System
--- Single File SQL Solution
+
 
 CREATE DATABASE MentalWellnessDB;
 USE MentalWellnessDB;
