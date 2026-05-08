@@ -1,5 +1,4 @@
--- Smart Waste Collection Management System
--- Single File SQL Solution
+
 
 CREATE DATABASE SmartWasteDB;
 USE SmartWasteDB;
