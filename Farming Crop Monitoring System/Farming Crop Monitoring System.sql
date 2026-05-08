@@ -1,5 +1,4 @@
--- Smart Farming Crop Monitoring System
--- Single File SQL Solution
+
 
 CREATE DATABASE SmartFarmingDB;
 USE SmartFarmingDB;
