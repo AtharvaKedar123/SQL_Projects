@@ -1,5 +1,4 @@
--- Smart Electricity Usage Billing System
--- Single File SQL Solution
+
 
 CREATE DATABASE ElectricityBillingDB;
 USE ElectricityBillingDB;
