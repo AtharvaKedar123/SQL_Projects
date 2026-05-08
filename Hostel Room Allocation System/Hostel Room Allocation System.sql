@@ -1,5 +1,4 @@
--- Smart Hostel Room Allocation System
--- Single File SQL Solution
+
 
 CREATE DATABASE HostelAllocationDB;
 USE HostelAllocationDB;
