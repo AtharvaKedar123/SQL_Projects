@@ -1,5 +1,3 @@
--- Smart Library Seat Booking & Study Room System
--- Single File SQL Solution
 
 CREATE DATABASE SmartLibraryDB;
 USE SmartLibraryDB;
