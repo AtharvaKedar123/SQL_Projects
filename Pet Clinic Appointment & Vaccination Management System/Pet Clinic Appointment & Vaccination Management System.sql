@@ -1,5 +1,4 @@
--- Pet Clinic Appointment & Vaccination Management System
--- Single File SQL Solution
+
 
 CREATE DATABASE PetClinicDB;
 USE PetClinicDB;
