@@ -1,5 +1,4 @@
--- Smart Parking Violation & Fine Management System
--- Single File SQL Solution
+
 
 CREATE DATABASE ParkingViolationDB;
 USE ParkingViolationDB;
