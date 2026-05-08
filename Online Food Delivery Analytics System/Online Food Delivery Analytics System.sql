@@ -1,5 +1,4 @@
--- Online Food Delivery Analytics System
--- Single File SQL Solution
+
 
 CREATE DATABASE FoodDeliveryDB;
 USE FoodDeliveryDB;
