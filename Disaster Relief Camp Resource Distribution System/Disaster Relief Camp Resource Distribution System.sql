@@ -1,5 +1,4 @@
--- Disaster Relief Camp Resource Distribution System
--- Single File SQL Solution
+
 
 CREATE DATABASE DisasterReliefDB;
 USE DisasterReliefDB;
