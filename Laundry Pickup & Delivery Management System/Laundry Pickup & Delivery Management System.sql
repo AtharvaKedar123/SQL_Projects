@@ -1,5 +1,4 @@
--- Smart Laundry Pickup & Delivery Management System
--- Single File SQL Solution
+
 
 CREATE DATABASE LaundryServiceDB;
 USE LaundryServiceDB;
