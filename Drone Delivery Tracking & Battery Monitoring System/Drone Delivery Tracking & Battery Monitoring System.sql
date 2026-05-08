@@ -1,5 +1,4 @@
--- Drone Delivery Tracking & Battery Monitoring System
--- Single File SQL Solution
+
 
 CREATE DATABASE DroneDeliveryDB;
 USE DroneDeliveryDB;
