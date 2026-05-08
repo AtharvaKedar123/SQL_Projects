@@ -1,5 +1,4 @@
--- Smart School Bus Tracking & Student Attendance System
--- Single File SQL Solution
+
 
 CREATE DATABASE SchoolBusTrackingDB;
 USE SchoolBusTrackingDB;
