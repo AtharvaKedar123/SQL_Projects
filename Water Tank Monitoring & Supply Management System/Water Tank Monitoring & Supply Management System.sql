@@ -1,5 +1,4 @@
--- Smart Water Tank Monitoring & Supply Management System
--- Single File SQL Solution
+
 
 CREATE DATABASE WaterTankMonitoringDB;
 USE WaterTankMonitoringDB;
