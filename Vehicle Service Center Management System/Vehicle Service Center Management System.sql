@@ -1,5 +1,4 @@
--- Vehicle Service Center Management System
--- Single File SQL Solution
+
 
 CREATE DATABASE VehicleServiceDB;
 USE VehicleServiceDB;
