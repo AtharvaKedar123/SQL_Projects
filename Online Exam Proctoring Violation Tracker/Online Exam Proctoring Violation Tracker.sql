@@ -1,5 +1,4 @@
--- Online Exam Proctoring Violation Tracker
--- Single File SQL Solution
+
 
 CREATE DATABASE ExamProctoringDB;
 USE ExamProctoringDB;
