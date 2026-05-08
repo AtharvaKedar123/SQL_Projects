@@ -1,5 +1,4 @@
--- E-Commerce Return & Refund Tracking System
--- Single File SQL Solution
+
 
 CREATE DATABASE ReturnRefundDB;
 USE ReturnRefundDB;
