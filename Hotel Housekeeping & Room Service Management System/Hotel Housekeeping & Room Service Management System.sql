@@ -1,5 +1,4 @@
--- Smart Hotel Housekeeping & Room Service Management System
--- Single File SQL Solution
+
 
 CREATE DATABASE HotelHousekeepingDB;
 USE HotelHousekeepingDB;
