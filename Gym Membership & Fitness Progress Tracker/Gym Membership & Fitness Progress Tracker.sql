@@ -1,5 +1,4 @@
--- Gym Membership & Fitness Progress Tracker
--- Single File SQL Solution
+
 
 CREATE DATABASE GymTrackerDB;
 USE GymTrackerDB;
