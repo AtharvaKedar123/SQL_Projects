@@ -1,4 +1,4 @@
-CREATE DATABASE AirportBaggageDB:
+CREATE DATABASE AirportBaggageDB;
 USE AirportBaggageDB;
 
 CREATE TABLE Passenger (
