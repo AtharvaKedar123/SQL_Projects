@@ -1,4 +1,4 @@
-CREATE DATABASE SmartStreetlightDB
+CREATE DATABASE SmartStreetlightDB:
 USE SmartStreetlightDB;
 
 CREATE TABLE Zone (
